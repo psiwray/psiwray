@@ -7,3 +7,4 @@ Some of the projects usually stay hidden until I decide that they've
 reached a mature point and will then become public.
 
 ![Free Software Foundation](https://static.fsf.org/nosvn/associate/crm/5003161.png "Free Software Foundation")
+![Electronic Frontier Foundation](https://www.eff.org/sites/default/files/eff-join.png "Electronic Frontier Foundation")

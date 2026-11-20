@@ -1,8 +1,6 @@
 # Welcome!
 
 This is my public profile and contains most of my personal projects.
-Projects I might develop in collaboration with somebody else are
-mostly found in my organization, [@psiwray-corp](https://github.com/psiwray-corp).
 
 ## Memberships
 
